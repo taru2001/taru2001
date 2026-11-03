@@ -127,15 +127,17 @@ An AI-powered coaching platform providing contextual social simulations.
 
 ## 📊 GitHub Statistics
 
+## 📊 GitHub Statistics
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=taru2001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=taru2001&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taru2001&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=taru2001&layout=compact&theme=tokyonight&hide_border=true" />
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=taru2001&theme=tokyonight&hide_border=true" />
+<img width="70%" src="https://streak-stats.demolab.com?user=taru2001&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -145,7 +147,7 @@ An AI-powered coaching platform providing contextual social simulations.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=taru2001&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<img src="https://ghchart.rshah.org/409ba5/taru2001" alt="Taru Gupta's GitHub Contribution Graph" width="100%" />
 
 </div>
 
