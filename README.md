@@ -1,106 +1,176 @@
-# Hi, I'm Taru Gupta 👋
 
-### Software Development Engineer 2 | Backend Engineer | AI & Distributed Systems
+<!-- ==================== HEADER ==================== -->
 
-I'm a Software Engineer passionate about building scalable backend systems, distributed architectures, and AI-powered applications.
+<div align="center">
 
-Currently working at **Palo Alto Networks**, where I design and develop high-performance backend services, event-driven integrations, and AI-powered solutions.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Taru%20Gupta&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%7C%20AI&descAlignY=58&descSize=18" width="100%" />
 
-- 🔭 Working on scalable backend systems and distributed architectures.
-- 💻 Experienced in Golang, Java, Spring Boot, Kafka, Kubernetes, and AWS.
-- 🤖 Exploring LLMs, RAG, AI agents, and intelligent automation.
-- ⚡ Interested in system design, concurrency, and performance optimization.
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Development+Engineer+2;Backend+%26+Distributed+Systems+Engineer;Golang+%7C+Java+%7C+Kafka+%7C+Kubernetes;Building+Scalable+Systems+%26+AI+Solutions" alt="Typing SVG" />
+</a>
+
+<p>
+<a href="https://github.com/taru2001">
+<img src="https://img.shields.io/badge/GitHub-taru2001-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://www.linkedin.com/" >
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:guptaurat2001@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm **Taru Gupta**, a Software Development Engineer 2 at **Palo Alto Networks**, passionate about building scalable backend systems, distributed architectures, and AI-powered applications.
+
+I enjoy solving complex engineering problems involving concurrency, event-driven architectures, system performance, and large-scale data processing.
+
+- 💼 Currently working as an **SDE-2 at Palo Alto Networks**.
+- ⚡ Experienced in building high-performance backend systems using **Golang and Java**.
+- 🚀 Interested in distributed systems, microservices, and system design.
+- 🤖 Exploring LLMs, Retrieval-Augmented Generation (RAG), and AI-powered applications.
+- ☁️ Working with Kafka, Kubernetes, AWS, Docker, and observability tools.
 - 🏆 5-Star Developer on CodeChef.
 - 🥇 Meta Hacker Cup 2025 – Global Rank 630 (Round 1).
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-**Languages**
+### Programming Languages
 
-Golang | Java | C++ | Python
+<p>
+<img src="https://skillicons.dev/icons?i=go,java,cpp,python&theme=dark" />
+</p>
 
-**Backend Development**
+### Backend Development
 
-Spring Boot | Django | Node.js | Microservices | REST APIs
+<p>
+<img src="https://skillicons.dev/icons?i=spring,django,nodejs,redis&theme=dark" />
+</p>
 
-**Infrastructure & Cloud**
+### Cloud & Infrastructure
 
-AWS | Kubernetes | Docker | Terraform | Helm
+<p>
+<img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,kafka&theme=dark" />
+</p>
 
-**Databases & Messaging**
+### Monitoring & AI
 
-Kafka | Redis | Distributed Systems
-
-**Monitoring & Observability**
-
-Prometheus | Grafana | OpenTelemetry
-
-**AI & Machine Learning**
-
-LLMs | RAG | Gemini | Vector Embeddings
-
----
-
-### 💼 Professional Experience
-
-**Software Development Engineer 2 — Palo Alto Networks**
-_August 2023 – Present_
-
-- Architected asynchronous parallel processing systems, reducing execution time from 10 hours to under 2 minutes (300x speedup).
-- Improved Jira and Bitbucket integrations using webhooks and event-driven architecture, increasing data ingestion rates by 90%.
-- Designed an LLM-powered Policy Recommendation Engine using RAG.
-- Led zero-downtime migration of Confluence Connector to V2 APIs across 150+ enterprise environments.
-- Integrated OpenTelemetry and Grafana for distributed tracing and observability.
-- Improved E2E testing infrastructure across 10+ connectors, achieving a 98% CI/CD pass rate.
-
-**Software Engineer Intern — Samsung**
-_May 2022 – July 2022_
-
-- Developed Prometheus exporters for monitoring 20+ microservices.
-- Automated Grafana dashboards for real-time infrastructure monitoring.
+<p>
+<img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" />
+<img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" />
+<img src="https://img.shields.io/badge/LLMs-AI-blueviolet?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-Generative_AI-8A2BE2?style=for-the-badge" />
+</p>
 
 ---
 
-### 🚀 Featured Projects
+## 💼 Professional Experience
 
-**1. Crypto Trading App**
-- Built a high-frequency trading platform using Django and Node.js.
+### Palo Alto Networks
+**Software Development Engineer 2** | August 2023 – Present
+
+- Architected asynchronous parallel processing systems, reducing execution time from **10 hours to under 2 minutes (300x speedup)** for multi-tenant datasets.
+- Improved Jira and Bitbucket integrations using webhooks and event-driven architecture, increasing data ingestion rates by **90%**.
+- Designed an LLM-powered Policy Recommendation Engine using RAG to automate policy suggestions.
+- Orchestrated zero-downtime migration of Confluence Connector to V2 APIs across **150+ enterprise environments**.
+- Integrated OpenTelemetry and Grafana for distributed tracing and observability, reducing RCA time by **40%**.
+- Standardized E2E testing across 10+ connectors, achieving a **98% CI/CD pass rate**.
+
+**Tech:** Golang, Spring Boot, Reactive Java, Kubernetes, AWS, Kafka, OpenTelemetry, Grafana.
+
+### Samsung
+**Software Engineer Intern** | May 2022 – July 2022
+
+- Developed custom and standard Prometheus exporters to monitor **20+ microservices**.
+- Automated 10+ Grafana dashboards for real-time infrastructure monitoring.
+- Reduced incident detection time by **15%** through improved observability.
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Crypto Trading App
+
+A high-frequency trading platform built for real-time market updates and concurrent transaction processing.
+
+- Built using Django and Node.js.
 - Integrated WebSockets for sub-200ms ticker updates.
-- Developed a thread-safe matching engine with Redis caching.
-- Supported 500+ transactions per second.
+- Implemented a thread-safe matching engine.
+- Used Redis caching to support **500+ TPS** with atomic consistency.
 
-**2. PersonaPrep – AI Coaching Platform**
-- Built an AI-powered coaching platform using Spring Boot and Gemini LLM.
-- Optimized inference latency to under 1.5 seconds.
-- Implemented contextual memory for 20+ turn social simulations.
+### 🔹 PersonaPrep – AI Coaching Platform
 
----
+An AI-powered coaching platform providing contextual social simulations.
 
-### 🏆 Achievements
-
-- 🥇 Meta Hacker Cup 2025 – Global Rank 630 (Round 1).
-- ⭐ 5-Star Developer on CodeChef.
-- 🏅 Qualified for ICPC Regional Prelims 2021.
-- 🏆 Engineering Excellence Award – Palo Alto Networks.
+- Built using Spring Boot and Gemini LLM.
+- Optimized inference latency to **under 1.5 seconds**.
+- Implemented contextual memory for state retention across 20+ turn simulations.
 
 ---
 
-### 📊 GitHub Stats
+## 🏆 Achievements
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-### 🤝 Let's Connect
-
-- 💼 LinkedIn: [Connect with me](YOUR_LINKEDIN_URL)
-- 📧 Email: guptaurat2001@gmail.com
-- 💻 GitHub: [My GitHub Profile](https://github.com/YOUR_GITHUB_USERNAME)
+- 🥇 **Meta Hacker Cup 2025:** Global Rank 630 in Round 1 and 1084 in Round 2.
+- ⭐ **CodeChef:** 5-Star Developer.
+- 🏅 **ICPC:** Qualified for Regional Prelims 2021.
+- 🏆 **Engineering Excellence Award:** Recognized by Palo Alto Networks for outstanding engineering execution and customer focus.
 
 ---
 
-⭐ *Always learning, building, and solving interesting engineering problems.*
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=taru2001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taru2001&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=taru2001&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=taru2001&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/taru2001">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/taru-gupta-995a9918a/" >
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:guptaurat2001@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail" />
+</a>
+
+<br/><br/>
+
+**"Building scalable systems, solving hard problems, and learning something new every day."**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%" />
+
+</div>
